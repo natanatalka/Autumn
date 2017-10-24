@@ -29,7 +29,7 @@
       }
     }
   },
-  "Screen1": {
+  "Screen2": {
     "type": "object",
     "comment": "Blank",
     "properties": {}

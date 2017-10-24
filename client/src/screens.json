@@ -15,8 +15,8 @@
       "sourceAppId": "default"
     },
     {
-      "id": "Screen1",
-      "name": "screen1",
+      "id": "Screen2",
+      "name": "screen2",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
     }

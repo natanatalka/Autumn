@@ -14,11 +14,6 @@
     "comment": "Blank",
     "properties": {}
   },
-  "September": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
-  },
   "November": {
     "type": "object",
     "comment": "Login",

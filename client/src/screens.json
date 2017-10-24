@@ -3,12 +3,6 @@
   "name": "Autumn",
   "screens": [
     {
-      "id": "September",
-      "name": "September",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    },
-    {
       "id": "November",
       "name": "November",
       "sourceScreenId": "Login",

@@ -33,5 +33,10 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
+  },
+  "Blank": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }

@@ -28,5 +28,10 @@
         }
       }
     }
+  },
+  "Nata1": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }

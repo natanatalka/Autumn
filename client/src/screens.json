@@ -7,6 +7,12 @@
       "name": "September",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
+    },
+    {
+      "id": "October",
+      "name": "October",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ]
 }

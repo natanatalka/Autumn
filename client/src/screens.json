@@ -1,5 +1,12 @@
 {
   "id": "__BASE__",
   "name": "Autumn",
-  "screens": []
+  "screens": [
+    {
+      "id": "September",
+      "name": "September",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    }
+  ]
 }

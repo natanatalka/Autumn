@@ -19,6 +19,12 @@
       "name": "nata2",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
+    },
+    {
+      "id": "Blank",
+      "name": "Blank",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ]
 }

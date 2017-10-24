@@ -3,13 +3,13 @@ import { Page } from 'ionic-angular/navigation/nav-util';
 import { MenuComponent } from './menu/menu.component';
 import { September_PhonePortrait } from '../pages/September/PhonePortrait/September';
 import { November_PhonePortrait } from '../pages/November/PhonePortrait/November';
-import { Test1_PhonePortrait } from '../pages/Test1/PhonePortrait/Test1';
+import { Test2_PhonePortrait } from '../pages/Test2/PhonePortrait/Test2';
 export class Screens {
   static declarations: Page[] = [
     MenuComponent,
     September_PhonePortrait,
     November_PhonePortrait,
-    Test1_PhonePortrait
+    Test2_PhonePortrait
   ];
   static mapping = {
     'September': {
@@ -18,8 +18,8 @@ export class Screens {
     'November': {
       PhonePortrait: November_PhonePortrait
     },
-    'Test1': {
-      PhonePortrait: Test1_PhonePortrait
+    'Test2': {
+      PhonePortrait: Test2_PhonePortrait
     }
   }
 }

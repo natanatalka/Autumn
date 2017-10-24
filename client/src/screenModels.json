@@ -29,7 +29,7 @@
       }
     }
   },
-  "Test1": {
+  "Test2": {
     "type": "object",
     "comment": "Blank",
     "properties": {}

@@ -9,6 +9,7 @@ import { Blank1_PhonePortrait } from '../pages/Blank1/PhonePortrait/Blank1';
 import { Login_PhonePortrait } from '../pages/Login/PhonePortrait/Login';
 import { Same_PhonePortrait } from '../pages/Same/PhonePortrait/Same';
 import { 1 _PhonePortrait } from '../pages/1/PhonePortrait/1';
+import { 2 _PhonePortrait } from '../pages/2/PhonePortrait/2';
 export class Screens {
   static declarations: Page[] = [
     MenuComponent,
@@ -19,7 +20,8 @@ export class Screens {
     Blank1_PhonePortrait,
     Login_PhonePortrait,
     Same_PhonePortrait,
-    1 _PhonePortrait
+    1 _PhonePortrait,
+    2 _PhonePortrait
   ];
   static mapping = {
     'September': {
@@ -45,6 +47,9 @@ export class Screens {
     },
     '1': {
       PhonePortrait: 1 _PhonePortrait
+    },
+    '2': {
+      PhonePortrait: 2 _PhonePortrait
     }
   }
 }

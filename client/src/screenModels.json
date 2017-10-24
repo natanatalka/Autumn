@@ -28,5 +28,10 @@
         }
       }
     }
+  },
+  "Screen2": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }

@@ -3,10 +3,5 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
-  },
-  "October": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
   }
 }

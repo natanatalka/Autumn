@@ -13,6 +13,12 @@
       "name": "November",
       "sourceScreenId": "Login",
       "sourceAppId": "default"
+    },
+    {
+      "id": "Test1",
+      "name": "Test1",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ]
 }

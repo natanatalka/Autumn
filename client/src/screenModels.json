@@ -143,5 +143,10 @@
         }
       }
     }
+  },
+  "Blank5": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }

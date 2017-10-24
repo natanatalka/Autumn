@@ -1,5 +1,6 @@
 export * from './1/index';
 export * from './2/index';
+export * from './3/index';
 export * from './Blank/index';
 export * from './Blank1/index';
 export * from './Login/index';

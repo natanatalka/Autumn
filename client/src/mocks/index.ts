@@ -5,6 +5,7 @@ export * from './Blank/index';
 export * from './Blank1/index';
 export * from './Blank2/index';
 export * from './Blank3/index';
+export * from './Blank4/index';
 export * from './Login/index';
 export * from './Nata2/index';
 export * from './November/index';

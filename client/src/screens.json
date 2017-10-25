@@ -3,6 +3,12 @@
   "name": "Autumn",
   "screens": [
     {
+      "id": "September",
+      "name": "September",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    },
+    {
       "id": "November",
       "name": "November",
       "sourceScreenId": "Login",
@@ -17,6 +23,12 @@
     {
       "id": "Blank",
       "name": "Blank",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    },
+    {
+      "id": "Blank1",
+      "name": "Blank1",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
     },
@@ -51,12 +63,6 @@
       "sourceAppId": "default"
     },
     {
-      "id": "Blank1",
-      "name": "Blank1",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    },
-    {
       "id": "Blank2",
       "name": "Blank2",
       "sourceScreenId": "Blank",
@@ -72,12 +78,6 @@
       "id": "Blank4",
       "name": "Blank4",
       "sourceScreenId": "Login",
-      "sourceAppId": "default"
-    },
-    {
-      "id": "Blank5",
-      "name": "Blank5",
-      "sourceScreenId": "Blank",
       "sourceAppId": "default"
     }
   ]

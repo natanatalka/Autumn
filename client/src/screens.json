@@ -21,12 +21,6 @@
       "sourceAppId": "default"
     },
     {
-      "id": "Blank1",
-      "name": "Blank1",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    },
-    {
       "id": "Login",
       "name": "Login",
       "sourceScreenId": "Login",
@@ -53,6 +47,12 @@
     {
       "id": "3",
       "name": "3",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    },
+    {
+      "id": "Blank1",
+      "name": "Blank1",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
     },

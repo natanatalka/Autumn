@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 import { Screen } from 'app/screen';
 
 @Component({
-  selector: 'screen-blank1-phoneportrait',
+  selector: 'screen--_base___blank1_phoneportrait',
   templateUrl: 'Blank1.html'
 })
-export class Blank1_PhonePortrait extends Screen {
+export class __BASE___Blank1_PhonePortrait extends Screen {
 }
